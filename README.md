@@ -35,7 +35,7 @@ Each project includes **detailed explanations**, Jupyter notebooks, and visualiz
 
 ## 🛠 Skills & Technologies
 
-🔹 **Programming Languages:** Python, SQL, R, Javascript, Node JS, 
+🔹 **Programming Languages:** Python, SQL, R, Javascript, Node JS
 🔹 **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
 🔹 **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, PyTorch, XGBoost  
 🔹 **Big Data & Engineering:** Apache Spark, Hadoop  
