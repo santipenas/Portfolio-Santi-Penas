@@ -1,4 +1,4 @@
-# 🚀 Santi Penas – Data Science, Machine Learning & AI Portfolio
+# 🚀 Data Science, Machine Learning & AI Portfolio
 
 Welcome to my **Data Science & Machine Learning Portfolio**!  
 I'm **Santi Penas**, a passionate **Data Scientist and Machine Learning Engineer** dedicated to extracting insights, building predictive models, and solving real-world problems with **AI**.
