@@ -1,0 +1,23 @@
+[project]
+name = "google-adk-telecom-portfolio"
+version = "1.0.0"
+description = "Flagship Google ADK Agentic AI Portfolio featuring 6 production-grade autonomous agents across Telecom, Cloud Resiliency, Enterprise RAG, Cybersecurity, Churn Analytics, and Geospatial RF."
+authors = [
+    { name = "Santiago Penas" }
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-adk>=2.8.0",
+    "google-genai>=2.22.0",
+    "pandas>=3.0.0",
+    "numpy>=2.0.0",
+    "pydantic>=2.10.0",
+    "fastapi>=0.115.0",
+    "uvicorn>=0.30.0",
+    "pytest>=8.0.0",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["portfolio_agents"]
+python_files = ["test_*.py"]

@@ -1,0 +1,8 @@
+google-adk>=2.8.0
+google-genai>=2.22.0
+pandas>=3.0.0
+numpy>=2.0.0
+pydantic>=2.10.0
+fastapi>=0.115.0
+uvicorn>=0.30.0
+pytest>=8.0.0

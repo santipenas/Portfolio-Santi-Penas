@@ -1,0 +1,80 @@
+[
+  {
+    "site_id": "SITE-NYC-001",
+    "name": "Manhattan Financial District Central gNB",
+    "region": "Manhattan",
+    "latitude": 40.7075,
+    "longitude": -74.0090,
+    "band": "n78 (3.5 GHz Mid-Band)",
+    "azimuth_deg": 45,
+    "tilt_deg": 6.0,
+    "height_m": 35.0,
+    "tx_power_dbm": 46.0,
+    "coverage_radius_m": 650.0
+  },
+  {
+    "site_id": "SITE-NYC-002",
+    "name": "Battery Park South gNB",
+    "region": "Manhattan",
+    "latitude": 40.7032,
+    "longitude": -74.0170,
+    "band": "n78 (3.5 GHz Mid-Band)",
+    "azimuth_deg": 120,
+    "tilt_deg": 4.5,
+    "height_m": 28.0,
+    "tx_power_dbm": 43.0,
+    "coverage_radius_m": 500.0
+  },
+  {
+    "site_id": "SITE-NYC-003",
+    "name": "Fulton Transit Hub mmWave Array",
+    "region": "Manhattan",
+    "latitude": 40.7102,
+    "longitude": -74.0080,
+    "band": "n258 (24 GHz mmWave)",
+    "azimuth_deg": 210,
+    "tilt_deg": 8.0,
+    "height_m": 22.0,
+    "tx_power_dbm": 38.0,
+    "coverage_radius_m": 280.0
+  },
+  {
+    "site_id": "SITE-NYC-004",
+    "name": "Brooklyn DUMBO Waterfront gNB",
+    "region": "Brooklyn",
+    "latitude": 40.7033,
+    "longitude": -73.9890,
+    "band": "n78 (3.5 GHz Mid-Band)",
+    "azimuth_deg": 315,
+    "tilt_deg": 5.0,
+    "height_m": 40.0,
+    "tx_power_dbm": 46.0,
+    "coverage_radius_m": 750.0
+  },
+  {
+    "site_id": "SITE-NYC-005",
+    "name": "Brooklyn Tech Triangle Small Cell",
+    "region": "Brooklyn",
+    "latitude": 40.6945,
+    "longitude": -73.9865,
+    "band": "n77 (3.7 GHz C-Band)",
+    "azimuth_deg": 180,
+    "tilt_deg": 7.0,
+    "height_m": 25.0,
+    "tx_power_dbm": 40.0,
+    "coverage_radius_m": 420.0
+  },
+  {
+    "site_id": "SITE-NYC-006",
+    "name": "Queens Long Island City Sky Tower",
+    "region": "Queens",
+    "latitude": 40.7485,
+    "longitude": -73.9420,
+    "band": "n71 (600 MHz Low-Band)",
+    "azimuth_deg": 90,
+    "tilt_deg": 3.0,
+    "height_m": 65.0,
+    "tx_power_dbm": 49.0,
+    "coverage_radius_m": 1800.0
+  }
+]

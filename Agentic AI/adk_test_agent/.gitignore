@@ -1,0 +1,30 @@
+# Environment & Secrets (NEVER COMMIT KEYS)
+.env
+.env.*
+!.env.example
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Google ADK Local Session & Storage Databases
+.adk/
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary & Installer Scripts
+get-pip.py
+*.log
+
+# OS Metadata
+.DS_Store
+Thumbs.db
