@@ -1,0 +1,62 @@
+{
+  "Always-On (Baseline)": {
+    "steps": 148,
+    "energy_consumed_kwh": 148.0,
+    "energy_saved_kwh": 0.0,
+    "energy_saved_pct": 0.0,
+    "opex_cost_usd": 26.64,
+    "carbon_kg_co2": 70.3,
+    "sla_compliance_pct": 100.0,
+    "total_dropped_conns": 0,
+    "actions_distribution": {
+      "0": 148,
+      "1": 0,
+      "2": 0
+    }
+  },
+  "Static Night Timer": {
+    "steps": 148,
+    "energy_consumed_kwh": 115.6,
+    "energy_saved_kwh": 32.4,
+    "energy_saved_pct": 21.89,
+    "opex_cost_usd": 20.81,
+    "carbon_kg_co2": 54.91,
+    "sla_compliance_pct": 99.32,
+    "total_dropped_conns": 1,
+    "actions_distribution": {
+      "0": 112,
+      "1": 0,
+      "2": 36
+    }
+  },
+  "Dynamic Threshold Rule": {
+    "steps": 148,
+    "energy_consumed_kwh": 99.4,
+    "energy_saved_kwh": 48.6,
+    "energy_saved_pct": 32.84,
+    "opex_cost_usd": 17.89,
+    "carbon_kg_co2": 47.22,
+    "sla_compliance_pct": 100.0,
+    "total_dropped_conns": 0,
+    "actions_distribution": {
+      "0": 66,
+      "1": 63,
+      "2": 19
+    }
+  },
+  "RL Agent (PPO)": {
+    "steps": 148,
+    "energy_consumed_kwh": 58.4,
+    "energy_saved_kwh": 89.6,
+    "energy_saved_pct": 60.54,
+    "opex_cost_usd": 10.51,
+    "carbon_kg_co2": 27.74,
+    "sla_compliance_pct": 98.65,
+    "total_dropped_conns": 0,
+    "actions_distribution": {
+      "0": 0,
+      "1": 109,
+      "2": 39
+    }
+  }
+}

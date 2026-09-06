@@ -1,0 +1,101 @@
+# ==============================================================================
+# Python & Virtual Environments
+# ==============================================================================
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.obj
+*.o
+*.pyd
+
+# Packaging & Distribution
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# UV packaging tool cache
+.uv/
+
+# ==============================================================================
+# Testing, Coverage & Type Checking
+# ==============================================================================
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ==============================================================================
+# Streamlit & Web App Local Caches
+# ==============================================================================
+.streamlit/secrets.toml
+
+# ==============================================================================
+# Logs, Checkpoints & Scratch Files
+# ==============================================================================
+*.log
+*.tmp
+scratch/
+checkpoints/
+tensorboard_logs/
+lightning_logs/
+
+# ==============================================================================
+# IDEs & Operating System Artifacts
+# ==============================================================================
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# VS Code / JetBrains / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.swp
+*.swo
+*~
